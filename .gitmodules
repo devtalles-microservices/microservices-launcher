@@ -7,3 +7,6 @@
 [submodule "orders_ms"]
 	path = orders_ms
 	url = https://github.com/devtalles-microservices/orders-ms.git
+[submodule "payments_ms"]
+	path = payments_ms
+	url = https://github.com/devtalles-microservices/payments-ms.git
