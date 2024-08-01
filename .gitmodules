@@ -10,3 +10,6 @@
 [submodule "payments_ms"]
 	path = payments_ms
 	url = https://github.com/devtalles-microservices/payments-ms.git
+[submodule "auth_ms"]
+	path = auth_ms
+	url = https://github.com/devtalles-microservices/auth-ms.git
